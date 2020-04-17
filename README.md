@@ -21,4 +21,5 @@ FDSFF FDSSDF SDSSS FFD
 ```
 import pandas as pd
 pd.
+imag1.png
 ```
