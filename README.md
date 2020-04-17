@@ -23,6 +23,6 @@ import pandas as pd
 pd.
 
 ```
-![8-600x450] [8-600x450.png]
+![My_image] (8-600x450.png)
 
-![img1](img1.png)
+![My_image](img1.png)
