@@ -23,4 +23,4 @@ import pandas as pd
 pd.
 
 ```
-![8-600x450] 8-600x450.png
+![8-600x450] [8-600x450.png]
