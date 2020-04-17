@@ -21,5 +21,6 @@ FDSFF FDSSDF SDSSS FFD
 ```
 import pandas as pd
 pd.
-![Myimage] 8-600x450.png
+
 ```
+![8-600x450] 8-600x450.png
